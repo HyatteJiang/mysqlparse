@@ -5,7 +5,7 @@ import six
 
 __author__ = 'Julius Seporaitis'
 __email__ = 'julius@seporaitis.net'
-__version__ = '0.1.6'
+__version__ = '0.1.7'
 
 
 def parse(file_or_string):
